@@ -1,8 +1,8 @@
-# hey, i'm Veer 🐇
+# Hey, I'm Veer 🐇
 
 CS student, builder, and professional overthinker.
 
-i like taking random ideas, breaking them, figuring out why they broke, and eventually making them work.
+I like taking random ideas, breaking them, figuring out why they broke, and eventually making them work.
 currently somewhere between backend, ai, and figuring out what the hell i'm doing.
 
  # Reach out
